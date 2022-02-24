@@ -1,0 +1,99 @@
+#principal{
+background-image: url(./fundos/asd2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#Titulo{
+	color:70e5ae
+}
+
+.texto_verde{
+	color: green;
+}
+
+#cm{
+	background-color: blueviolet;
+	width:1cm;
+	height:1cm;
+}
+
+
+#mm{
+	background-color: red;
+	width:5mm;
+	height:5mm;
+}
+
+#in{
+	background-color: green;
+	width:1in;
+	height:1in;
+}
+
+#px{
+	background-color: darkred;
+	width:100px;
+	height:100px;
+}
+
+#pt{
+	background-color: green;
+	width:100pt;
+	height:100pt;
+}
+
+#pc{
+	background-color: blue;
+	width:15pc;
+	height:15pc;
+}
+
+.containing{
+	width:200px;
+	height: 500px;
+	background: red;
+	 
+}
+
+.inside{
+	width:50%;
+	height: 50%;
+	background: blue;
+	
+}
+	
+#base{
+	height: 10px;
+	background-color: red;
+}
+
+#Containerr{
+	background-color: blue;
+	color: white;
+}
+
+.borda{
+	border-width: 5px;
+	border-top-color: red;
+	
+
+}
+
+.quadrado{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+}
+
+.dashed{border-style: dashed;}
+
+p{
+	color: green;
+	text-indent: 10px;
+	text-shadow: 1px 1px #bbb;
+}
+
+.Lista{
+	background-color: red;
+}
